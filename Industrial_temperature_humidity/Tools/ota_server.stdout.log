@@ -1,0 +1,15 @@
+OTA package: D:\Myuse\Industrial_temperature_humidity-master\Industrial_temperature_humidity-master\Industrial_temperature_humidity\bin\Industrial_temperature_humidity_ota.bin
+Firmware payload: 426456 bytes
+Listening on 0.0.0.0:8000; click OTA on the device now.
+Device connected from 10.123.75.172:61617
+Sent 43008/426468 bytes (10%)
+Sent 85504/426468 bytes (20%)
+Sent 128000/426468 bytes (30%)
+Sent 171008/426468 bytes (40%)
+Sent 213504/426468 bytes (50%)
+Sent 256000/426468 bytes (60%)
+Sent 299008/426468 bytes (70%)
+Sent 341504/426468 bytes (80%)
+Sent 384000/426468 bytes (90%)
+Sent 426468/426468 bytes (100%)
+OTA package sent successfully.
